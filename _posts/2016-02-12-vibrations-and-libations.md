@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-12T20:25:03.616Z'
-dateModified: '2016-02-12T20:25:01.331Z'
+datePublished: '2016-02-12T20:28:06.251Z'
+dateModified: '2016-02-12T20:28:04.491Z'
 title: Vibrations and Libations
 author: []
 sourcePath: _posts/2016-02-12-vibrations-and-libations.md
@@ -25,4 +25,5 @@ _type: WebPage
 # Vibrations and Libations
 
 Raggae Tango  
-https://www.youtube.com/watch?v=EBbbpv3oMcU
+https://www.youtube.com/watch?v=EBbbpv3oMcU  
+https://www.youtube.com/watch?v=5gIa3RiPkoA
