@@ -1,25 +1,25 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-12T20:06:15.978Z'
-dateModified: '2016-02-12T20:05:46.419Z'
+datePublished: '2016-02-12T20:14:10.391Z'
+dateModified: '2016-02-12T20:14:08.084Z'
 title: Vibrations and Libations
 author: []
+sourcePath: _posts/2016-02-12-vibrations-and-libations.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-12-vibrations-and-libations.md
-published: true
-_type: Blurb
+url: vibrations-and-libations/index.html
+_type: WebPage
 
 ---
 # Vibrations and Libations
