@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-12T20:04:03.597Z'
-dateModified: '2016-02-12T19:34:00.157Z'
+datePublished: '2016-02-12T20:11:05.860Z'
+dateModified: '2016-02-12T20:11:04.082Z'
 title: 'Rules & Karma'
 author: []
+sourcePath: _posts/2016-02-12-rules-and-karma.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-12-rules-and-karma.md
-published: true
-url: rules-and-karma/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Rules & Karma
